@@ -1,0 +1,38 @@
+Diabetes is among the most widespread and most troubling health problems in the United States. Keeping the disease in check requires constant vigilance and consistent self-treatment, making it a major challenge for many people.
+
+Fortunately, modern technology offers novel new solutions to many of these issues.
+
+In recognition of National Diabetes Awareness Month, let’s look at some of the ways technology is easing the burden of disease management and making life better for those who struggle with diabetes.
+
+5) Smart Watches Offer Early Detection of Diabetes and Illness
+Detecting diabetes soon after onset leads to much better outcomes and easier treatment, but detecting the disease early enough can be problematic.
+
+Smartwatches, however, may offer a solution.
+
+Smartwatches are already used to record and track a variety of physiological data, and researchers believe this data could be a goldmine when it comes to detecting changes in the wearer’s health. For instance, people who are insulin-resistant – and therefore at greater risk of developing Type 2 diabetes – often display particular heart rate patterns that are different from the general population. By monitoring these patterns, smartwatches could be used to alert at-risk people and potentially provide an invaluable early warning.
+
+4) Painless ‘Smart Patch’ Delivers Insulin to Diabetics Without Needles
+For those with Type 1 or advanced Type 2 diabetes, insulin management is a major burden. It requires consistent and repeated glucose monitoring via finger-prick testing, as well as occasional insulin injections when necessary. Even vigilant testing isn’t always enough to maintain proper glucose levels, and the monitoring process is often a hassle – but this high-tech solution may be on the horizon.
+
+Medical researchers have developed a smart patch that monitors blood glucose and automatically delivers an appropriate dose of insulin as needed, using a painless delivery system composed of an array of microneedles connected to small insulin pouches. Though this smart patch is still in the testing phase, it has proven effective during initial testing and may soon be ready to change the way diabetes sufferers manage their disease.
+
+3) Wearable Contact Lenses Monitor Glucose Levels Through Tears
+Wearable technologies have the power to transform the way people monitor and manage their health. Smart socks and shoes utilize temperature and pressure sensors to monitor blood flow, which could provide early detection of blood supply issues and help to prevent tissue damage.
+
+Additionally, smart contact lenses can monitor glucose levels via human tears.
+
+2) Homes of the Future to Monitor Diabetics’ Glucose Levels
+Home automation is one of the hottest trends in technology, but its potential extends well beyond simple convenience and entertainment. Michael Maniscalco, a leading figure in the field of home automation, provides a powerful case study.
+
+After his young son was diagnosed with Type 1 diabetes, Maniscalco created an innovative home automation setup that triggered the smart lighting in his home any time his son’s blood glucose dipped below a certain level.
+
+This is just one way in which homeowners with special medical needs could utilize their systems to the fullest. For example, indoor cameras could remotely monitor patients or loved ones in case of an emergency. Or, alarms can be programmed to recognize if a diabetic’s glucose levels are low.
+
+This kind of home automation has the potential to support disease monitoring and management in a variety of powerful ways, particularly when combined with smart health monitors.
+
+Service dogs may even be able to eventually contribute; researchers are currently working to develop smart interfaces that would enable them to trigger alerts in the event of a hypoglycemic attack.
+
+1) There Are Now Plenty of Apps For Diabetes Management
+There’s an app for just about everything these days, and thankfully, diabetes is no different. Several apps already exist to help disease management, and a number of others are currently in development. Sugar.IQ will soon bring the tremendous power of the IBM Watson artificial intelligence platform to diabetes management, analyzing glucose levels and other data to find important trends and offer valuable insights and guidance to help those with diabetes better manage their disease. The Epic Health app similarly offers advanced data analytics, with the added bonus of innovative glucose testing without the need for blood samples. DiabNext, meanwhile, offers an all-in-one solution to help diabetes sufferers test glucose levels, automatically fill logbooks, remember to take medications as prescribed, and more.
+
+Diabetes remains a serious public health issue and a major challenge for those who suffer from the disease, but there is plenty of hope on the horizon. National Diabetes Awareness Month serves as a great opportunity to spread awareness not only of the disease itself but also of the great work being done to direct the power of modern technology towards diabetes management and treatment.
